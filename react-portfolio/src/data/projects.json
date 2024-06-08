@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Bags/Totes",
+    "imageSrc": "projects/bags.png",
+    "description": "View Instagram for more details.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Cardigans",
+    "imageSrc": "projects/cardigan.png",
+    "description": "View Instagram for more details.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Bouquets",
+    "imageSrc": "projects/bou.png",
+    "description": "View Instagram for more details.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Accessories",
+    "imageSrc": "projects/acc.png",
+    "description": "View Instagram for more details.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+ 
+]
